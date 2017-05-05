@@ -520,7 +520,8 @@ function configure_buttons(image_number,images_in_set)
 
 function back_to_gallery()
 {
-  location.replace("photo_gallery.php");
+  //location.replace("photo_gallery.php");
+  location.replace("index.php");
 }
       
 
